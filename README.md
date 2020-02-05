@@ -23,6 +23,5 @@ Running the node REPL (Read-Eval-Print-Loop)
 node
 ```
 
-To exit the REPL use CTRL+D once or CTRL+C twice.
 
----
+To exit the REPL use CTRL+D once or CTRL+C twice.
