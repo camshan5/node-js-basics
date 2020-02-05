@@ -87,3 +87,16 @@ http.STATUS_CODES;
 
 ---
 
+## Getting the Response Body: S2V3
+
+**Documentation**
+*  [Stream Events - “data”](http://nodejs.org/api/stream.html#stream_event_data) 
+*  [Stream Events - “end”](http://nodejs.org/api/stream.html#stream_event_end) 
+
+---
+
+## Capturing Command Line Arguments : S2V5
+
+**Documentation**
+*  [process.argv](https://nodejs.org/docs/latest/api/process.html#process_process_argv) 
+*  [Array.slice()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice) 
