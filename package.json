@@ -1,0 +1,7 @@
+{
+  "name": "node-js-basics",
+  "version": "1.0.0",
+  "dependencies": {
+    "node": "^13.7.0"
+  }
+}
