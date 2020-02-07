@@ -110,4 +110,4 @@ dist
 .idea/
 
 # Dont include weather api key
-./weather-app/api.json
+api.json
