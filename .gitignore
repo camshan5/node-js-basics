@@ -108,3 +108,6 @@ dist
 
 # JetBrains
 .idea/
+
+# Dont include weather api key
+./weather-app/api.json
